@@ -2,6 +2,7 @@ package com.treinamento.dslist.dto;
 
 import com.treinamento.dslist.entities.Game;
 import com.treinamento.dslist.projections.GameMinProjection;
+import jakarta.persistence.Column;
 
 public class GameMinDTO {
 
